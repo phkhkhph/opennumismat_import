@@ -8,7 +8,7 @@ from PIL import Image
 firebird_config = {
     "dsn": "localhost/3050:/opt/firebird/data/BALI.FDB",
     "user": "sysdba",
-    "password": "SYSDBA",
+    "password": "masterkey",
     "charset": "WIN1251"
 }
 
